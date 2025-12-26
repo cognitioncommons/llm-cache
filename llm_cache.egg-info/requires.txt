@@ -1,0 +1,12 @@
+click>=8.0
+rich>=13.0
+
+[dev]
+pytest>=7.0
+pytest-cov
+black
+ruff
+
+[server]
+flask>=2.0
+requests>=2.28

@@ -1,0 +1,2 @@
+[console_scripts]
+llm-cache = llm_cache.cli:main
